@@ -1,13 +1,13 @@
 
 
- Saudi Arabia Events Database
+ #Saudi Arabia Events Database
 ![1144](https://user-images.githubusercontent.com/105789612/226899531-0f468765-1655-4480-bb9c-5c0ae0978318.jpg)
 ## Challenge Statement:
 Create a database for booking events in Aaudi Arabia 
 
 ## Solution Concept:
-cant choose between Events ? Lets us solve it to yiu by booking more than ticket for every event you would like to visit ! 
-A database for booking more than one ticket of events in Saudi Arabia .
+Can't choose between Events ? Lets us solve it to you by booking more than ticket for every event you would like to visit ! 
+"A database for booking more than one ticket of events in Saudi Arabia ".
 
 
 
