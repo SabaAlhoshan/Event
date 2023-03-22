@@ -6,7 +6,7 @@
 Create a database for booking events in Aaudi Arabia 
 
 ## Solution Concept:
-Can't choose between Events ? Lets us solve it to you by booking more than ticket for every event you would like to visit ! 
+Can't choose between Events ? Lets us solve it to you by booking more than ticket for every event you would like to visit !                                           
 "A database for booking more than one ticket of events in Saudi Arabia ".
 
 
