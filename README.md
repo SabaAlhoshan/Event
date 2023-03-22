@@ -52,11 +52,10 @@ Can't choose between Events ? Lets us solve it to you by booking more than ticke
 <img width="1197" alt="Screenshot 1444-08-30 at 2 39 38 PM" src="https://user-images.githubusercontent.com/105789612/226893198-0d74e4d2-b70e-4033-8840-5294a8913a6a.png">
 
 ## CRUD Opreations
-### Create
-### Read
-### Update
-### Delete
-
+-Create
+-Read
+-Update
+-delete
 ### Create user
 <img width="1427" alt="Screenshot 1444-08-30 at 3 45 13 PM" src="https://user-images.githubusercontent.com/105789612/226908518-a4efd92a-25b1-47dc-8a93-e8e1b1e2a379.png">
 
@@ -67,8 +66,7 @@ Can't choose between Events ? Lets us solve it to you by booking more than ticke
 
 
 ## Developers 
-#### Saba alhoshan : https://www.linkedin.com/in/saba-alhoshan-23a9bb203
 #### Ghadah Alzahrani : www.linkedin.com/in/ghadah-alzahrani
+#### Saba alhoshan : https://www.linkedin.com/in/saba-alhoshan-23a9bb203
 #### Doaa : 
-
 
