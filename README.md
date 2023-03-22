@@ -11,9 +11,6 @@ Can't choose between Events ? Lets us solve it to you by booking more than ticke
 
 
 
-## API Reference 
-/api/person/{person_id}
-
 ## Tools 🛠️
 - vapor 
 - postgress
