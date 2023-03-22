@@ -43,9 +43,12 @@ Can't choose between Events ? Lets us solve it to you by booking more than ticke
 
 ### Database image
 <img width="1197" alt="Screenshot 1444-08-30 at 2 39 38 PM" src="https://user-images.githubusercontent.com/105789612/226893198-0d74e4d2-b70e-4033-8840-5294a8913a6a.png">
-
-
 ## CRUD Opration 
+
+### Create user
+
+
+### Read ticket
 
 
 ### Update user
@@ -54,10 +57,10 @@ Can't choose between Events ? Lets us solve it to you by booking more than ticke
 ### Delete ticket
 
 
-### Read ticket
 
 
-### Create user
+
+
 
 
 
